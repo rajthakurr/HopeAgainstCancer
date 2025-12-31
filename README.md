@@ -2,6 +2,7 @@
 
 A responsive web application dedicated to cancer awareness, education, and support with real-time inspirational quotes.
 
+
 ## 🌟 Features
 
 - **Responsive Design** - Works seamlessly on mobile, tablet, and desktop devices
@@ -10,6 +11,7 @@ A responsive web application dedicated to cancer awareness, education, and suppo
 - **Modern UI** - Beautiful gradient design with smooth animations
 - **Educational Content** - Information about cancer prevention and support
 - **Accessibility** - Clean, intuitive navigation and user experience
+
 
 ## 📋 Sections
 
@@ -20,9 +22,11 @@ A responsive web application dedicated to cancer awareness, education, and suppo
 5. **Contact Form** - Submit your name, email, and message
 6. **Footer** - Copyright and appreciation message
 
+
 ## 🚀 Live Demo
 
-Visit the live website: [Cancer Awareness & Support](https://rajthakurr.github.io/HopeAgainstCancer/)
+Visit the live website: [HopeAgainstCancer](https://rajthakurr.github.io/HopeAgainstCancer/)
+
 
 ## 💻 Technologies Used
 
@@ -30,6 +34,7 @@ Visit the live website: [Cancer Awareness & Support](https://rajthakurr.github.i
 - **CSS3** - Modern styling with gradients, animations, and flexbox/grid
 - **JavaScript (ES6)** - Dynamic functionality and API integration
 - **ZenQuotes API** - Free quotes API for real-time inspirational messages
+
 
 ## 🔧 Getting Started
 
@@ -47,11 +52,13 @@ Visit the live website: [Cancer Awareness & Support](https://rajthakurr.github.i
 
 3. Open your browser and navigate to `http://localhost:8000`
 
+
 ## 📝 Change API
 Modify the `fetchQuote()` function in `script.js` to use a different quotes API:
 - **ZenQuotes**: `https://zenquotes.io/api/random`
 - **Type.fit**: `https://type.fit/api/random`
 - **Advice Slip**: `https://api.adviceslip.com/advice`
+
 
 ## 💌 Support
 
@@ -61,5 +68,6 @@ If you or anyone you know is affected by cancer, please reach out to:
 - [Cancer Research UK](https://www.cancerresearchuk.org/)
 
 ---
+
 
 **Together, we fight cancer with hope, knowledge, and compassion.**
