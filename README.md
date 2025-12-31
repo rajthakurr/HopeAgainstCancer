@@ -31,16 +31,6 @@ Visit the live website: [Cancer Awareness & Support](https://rajthakurr.github.i
 - **JavaScript (ES6)** - Dynamic functionality and API integration
 - **ZenQuotes API** - Free quotes API for real-time inspirational messages
 
-## 📂 Project Structure
-
-```
-cancer-awareness/
-├── index.html      # Main HTML file
-├── styles.css      # CSS styling
-├── script.js       # JavaScript functionality
-└── README.md       # Project documentation
-```
-
 ## 🔧 Getting Started
 
 ### Local Development
