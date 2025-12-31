@@ -43,7 +43,7 @@ cancer-awareness/
 
 ## 🔧 Getting Started
 
-### Option 1: Local Development
+### Local Development
 1. Clone the repository
    ```bash
    git clone https://github.com/rajthakurr/HopeAgainstCancer.git
@@ -57,50 +57,11 @@ cancer-awareness/
 
 3. Open your browser and navigate to `http://localhost:8000`
 
-### Option 2: Direct File Access
-Simply open `index.html` in your web browser.
-
-## 📝 Form Submissions
-
-Form submissions are stored in your browser's **localStorage** with the key: `cancerAwarenessSubmissions`
-
-To view submissions in the browser console:
-```javascript
-JSON.parse(localStorage.getItem('cancerAwarenessSubmissions'))
-```
-
-## 🎨 Customization
-
-### Change Colors
-Edit the CSS variables in `styles.css`:
-```css
-:root {
-    --primary-color: #e74c3c;        /* Main red color */
-    --secondary-color: #3498db;      /* Secondary blue color */
-    --dark-color: #2c3e50;
-    --light-color: #ecf0f1;
-}
-```
-
 ### Change API
 Modify the `fetchQuote()` function in `script.js` to use a different quotes API:
 - **ZenQuotes**: `https://zenquotes.io/api/random`
 - **Type.fit**: `https://type.fit/api/random`
 - **Advice Slip**: `https://api.adviceslip.com/advice`
-
-## 📱 Responsive Breakpoints
-
-- **Desktop**: Full layout (> 1200px)
-- **Tablet**: Optimized grid layout (768px - 1200px)
-- **Mobile**: Single column layout (< 768px)
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork this repository and submit pull requests.
-
-## 📄 License
-
-This project is open source and available under the MIT License.
 
 ## 💌 Support
 
@@ -108,10 +69,6 @@ If you or anyone you know is affected by cancer, please reach out to:
 - [National Cancer Institute](https://www.cancer.gov/)
 - [American Cancer Society](https://www.cancer.org/)
 - [Cancer Research UK](https://www.cancerresearchuk.org/)
-
-## 👨‍💻 Author
-
-Created with ❤️ for cancer awareness and support.
 
 ---
 
