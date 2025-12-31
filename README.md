@@ -47,7 +47,7 @@ Visit the live website: [Cancer Awareness & Support](https://rajthakurr.github.i
 
 3. Open your browser and navigate to `http://localhost:8000`
 
-### Change API
+## 📝 Change API
 Modify the `fetchQuote()` function in `script.js` to use a different quotes API:
 - **ZenQuotes**: `https://zenquotes.io/api/random`
 - **Type.fit**: `https://type.fit/api/random`
